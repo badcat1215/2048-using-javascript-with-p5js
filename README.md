@@ -1,2 +1,2 @@
-# 2048-using-javascript-with-p5js
+# 2048-in-javascript-with-p5js
 The gmae 2048 using javascript with p5js
